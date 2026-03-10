@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 output "this_security_group_id" {
   description = "The ID of the security group"
   value       = module.sg.this_security_group_id

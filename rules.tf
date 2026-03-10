@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 variable "rules" {
   description = "Map of known security group rules (define as 'name' = ['from port', 'to port', 'protocol', 'description'])"
   type        = map(list(any))

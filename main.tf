@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 ##################################
 # Get ID of created Security Group
 ##################################

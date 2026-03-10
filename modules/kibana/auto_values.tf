@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 # This file was generated from values defined in rules.tf using update_groups.sh.
 ###################################
 # DO NOT CHANGE THIS FILE MANUALLY

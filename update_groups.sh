@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Copyright IBM Corp. 2017, 2020
+
 
 # This script generates each public module (eg, "http-80", "ssh") and specify rules required for each group.
 # This script should be run after rules.tf is changed to refresh all related modules.
